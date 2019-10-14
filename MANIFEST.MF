@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Class-Path: lib/com.amazonaws.eclipse.javasdk_1.11.248.jar lib/jcommon-1.0.16.jar lib/jfreechart-1.0.19.jar
+Main-Class: com.amazonaws.samples.User.App
